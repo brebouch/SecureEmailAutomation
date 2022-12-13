@@ -1,0 +1,6 @@
+SecureEmailUrl: 'https://SecureEmail.test.com'
+ContentFilterName: 'TestContentFilter'
+Sender: 'MaliciousEmail@badguys.com'
+Action: 'add'
+AdminUsername: 'admin'
+AdminPassword: '**********'

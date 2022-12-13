@@ -2,7 +2,7 @@
 
 ## Dynamically Add or Delete Envelope Senders in Secure Email Content Filters
 
-The Secure Endpoint Content Filter Tool is designed to allow for dynamic addition or removal of individual envelope
+The Secure Email Content Filter Tool is designed to allow for dynamic addition or removal of individual envelope
 sender addresses as part of an incident response process.
 </br></br>
 It is limited to best effort support only.
